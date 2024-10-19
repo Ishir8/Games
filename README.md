@@ -1,2 +1,2 @@
 # Invader
-contains my games
+contains my game Space Invader
